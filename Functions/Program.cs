@@ -29,7 +29,7 @@ namespace Functions
             //if not static function
             Test2 test = new Test2();
             test.something2();
-
+        C: \Users\felip\source\repos\FirstSolution\
             WelcomeMessage();
 
             Console.ReadLine();
